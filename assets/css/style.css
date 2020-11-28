@@ -1,0 +1,25 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+h5{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 20px;
+    color: #212529
+}
+h6{
+    font-family: 'Roboto', sans-serif;
+    color: #707070;
+}
+p{
+    font-family: 'Roboto', sans-serif;
+    color: #707070;
+    font-size: 16px;
+    font-weight: 300;
+}
+span{
+    font-weight: 500;
+    font-size: 20px;
+    color: #28A745;
+}
